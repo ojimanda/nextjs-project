@@ -1,4 +1,3 @@
-import React from "react";
 import Users from "../components/Users";
 import Hero from "../components/Hero";
 
