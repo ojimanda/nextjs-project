@@ -1,6 +1,7 @@
 import Users from "../components/Users";
 import Hero from "../components/Hero";
 
+
 function users({ data }) {
   return (
     <div>
